@@ -1,0 +1,32 @@
+h1 {
+  color: #0099FF;
+  text-align: center;
+}
+
+h2 {
+  color: #FF3399;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+}
+
+li {
+  font-size: 40px;
+  font-style: oblique;
+  text-align: justify;
+}
+
+img {
+  width: 540px;
+  height: auto;
+}
